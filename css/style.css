@@ -1,0 +1,56 @@
+.navbar.navbar-default {
+  border-radius: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none; }
+
+.nav.navbar-nav li.active a {
+  background-color: #2A74BF;
+  color: #fff; }
+  .nav.navbar-nav li.active a:hover {
+    background-color: #2A74BF;
+    color: #fff; }
+.nav.navbar-nav li a:hover {
+  background-color: #2A74BF;
+  color: #fff; }
+
+.page-header {
+  border-color: #2A74BF;
+  margin-top: 0; }
+  .page-header h1,
+  .page-header h3 {
+    color: #2A74BF;
+    font-weight: bold;
+    margin-bottom: 0; }
+
+h3 {
+  color: #2A74BF;
+  font-weight: bold; }
+
+.thumbnail {
+  border-radius: 0;
+  border: none;
+  padding: 1px; }
+
+.row > .col-xs-6:nth-child(1) > .thumbnail {
+  background-color: #D7514C; }
+.row > .col-xs-6:nth-child(2) > .thumbnail {
+  background-color: #2A74BF; }
+.row > .col-xs-6:nth-child(3) > .thumbnail {
+  background-color: #D8C11D; }
+.row > .col-xs-6:nth-child(4) > .thumbnail {
+  background-color: #4D944B; }
+
+.text-center {
+  color: #fff;
+  margin: 0;
+  white-space: nowrap; }
+
+.footer {
+  color: #fff;
+  background-color: #666;
+  padding: 10px 15px; }
+  .footer p {
+    margin: 0; }
+
+/*# sourceMappingURL=style.css.map */
